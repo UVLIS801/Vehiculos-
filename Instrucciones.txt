@@ -1,0 +1,2 @@
+Realizar un programa que dada una serie de vehículos que tienen de datos su marca, modelo y precio, se imprima las propiedades del vehículo mas económico. 
+Para ello, se debe pedir al usuario las características de cada vehículo y crear una clase que represente a cada uno de ellos.
